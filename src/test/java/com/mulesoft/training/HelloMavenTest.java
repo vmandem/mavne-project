@@ -25,4 +25,5 @@ public class HelloMavenTest extends FunctionalTestCase {
       assertEquals("application/json", contentType);
     }
 
+    
 }
